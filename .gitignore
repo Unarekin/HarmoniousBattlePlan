@@ -2,3 +2,4 @@ app.zip
 .vagrant/
 HarmoniousBattlePlan.zip
 bot/node_modules/
+bot/.env
